@@ -1,7 +1,5 @@
 # Understanding-Income-Inequality---Using-KNN
 
-# Introduction
-
 For this project, we are given the census data (adult-all dataset) with attributes of US citizens such as occupation, education, gender, race, etc. To assist organizations on working to ensure equal pay, we are planning to build a model that would achieve the goal of accurately classify low income from high income citizens. Meanwhile, this model should also provide us insights about attributes contribute to affluency and how can we improve policies in the US.
 
 There are two parts needed to be complete in this project:
